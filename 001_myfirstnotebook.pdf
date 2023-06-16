@@ -1,0 +1,253 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "f4ab8d3c",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'Hello, world!'"
+      ]
+     },
+     "execution_count": 1,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "'Hello, world!'"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "322fd5b8",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "t = 'Hello, world'"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "8f76d87d",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Hello, world\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(t)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "593b658e",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "str"
+      ]
+     },
+     "execution_count": 4,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "type(t)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "c7748d63",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "216"
+      ]
+     },
+     "execution_count": 5,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "6**3"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "5901151f",
+   "metadata": {
+    "scrolled": true
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "8.333333333333334"
+      ]
+     },
+     "execution_count": 6,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "100/12"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "228e161c",
+   "metadata": {
+    "scrolled": true
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "8"
+      ]
+     },
+     "execution_count": 7,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "round(100/12)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 17,
+   "id": "4a3c58f6",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "from math import factorial"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "id": "c1010890",
+   "metadata": {
+    "scrolled": true
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "3628800"
+      ]
+     },
+     "execution_count": 10,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "factorial(10)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "20c90b67",
+   "metadata": {},
+   "source": [
+    "It is just a text"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "f0b86117",
+   "metadata": {},
+   "source": [
+    "# Big Heading"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a8e8cc46",
+   "metadata": {},
+   "source": [
+    "## Smaller Heading, Level 2"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b166de7c",
+   "metadata": {},
+   "source": [
+    "### Yet Smaller Heading, Level 3"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "cc584970",
+   "metadata": {},
+   "source": [
+    " - List item 1\n",
+    " - List item 2\n",
+    " - List item 3"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "7388a5bf",
+   "metadata": {},
+   "source": [
+    "$$ c = \\sqrt(a^2 + b^2) $$ "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "6b78afa1",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.10.9"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
