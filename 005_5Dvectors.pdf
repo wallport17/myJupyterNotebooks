@@ -3,7 +3,7 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "0b139cfc",
+   "id": "555d9e50",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -12,8 +12,8 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 8,
-   "id": "6255da45",
+   "execution_count": 2,
+   "id": "389c2a97",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -22,13 +22,13 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 33,
-   "id": "5481db33",
+   "execution_count": 3,
+   "id": "b0f91ee9",
    "metadata": {},
    "outputs": [],
    "source": [
-    " a = np.array([4,-2])\n",
-    " b = np.array([-3, 5])\n",
+    " a = np.array([1, -2, 16, 40, 0])\n",
+    " b = np.array([3.16, 25, -3, -6.5, 108])\n",
     " \n",
     " c = a - b\n",
     " \n",
@@ -45,33 +45,15 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 25,
-   "id": "9d6905b3",
+   "execution_count": 4,
+   "id": "77cbe309",
    "metadata": {},
    "outputs": [
     {
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "[ 7 -7]\n"
-     ]
-    }
-   ],
-   "source": [
-    "print(c)"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 26,
-   "id": "84c0c5a0",
-   "metadata": {},
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "9.899494936611665\n"
+      "122.1511997485084\n"
      ]
     }
    ],
@@ -81,15 +63,15 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 27,
-   "id": "f14f6349",
+   "execution_count": 5,
+   "id": "2784e9e3",
    "metadata": {},
    "outputs": [
     {
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "4.47213595499958\n"
+      "43.139309220245984\n"
      ]
     }
    ],
@@ -99,15 +81,15 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 28,
-   "id": "b2d3f272",
+   "execution_count": 6,
+   "id": "1cd701d1",
    "metadata": {},
    "outputs": [
     {
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "5.830951894845301\n"
+      "111.13161386392262\n"
      ]
     }
    ],
@@ -117,15 +99,15 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 29,
-   "id": "72fd2a9a",
+   "execution_count": 11,
+   "id": "5817133e",
    "metadata": {},
    "outputs": [
     {
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "9.899494936611665\n"
+      "122.1511997485084\n"
      ]
     }
    ],
@@ -135,15 +117,15 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 35,
-   "id": "36a571ae",
+   "execution_count": 12,
+   "id": "08bfb707",
    "metadata": {},
    "outputs": [
     {
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "-22\n"
+      "-354.84000000000003\n"
      ]
     }
    ],
@@ -153,15 +135,15 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 36,
-   "id": "d1b5d79e",
+   "execution_count": 13,
+   "id": "4b880d57",
    "metadata": {},
    "outputs": [
     {
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "-0.8436614877321075\n"
+      "-0.07401534413719323\n"
      ]
     }
    ],
@@ -171,15 +153,15 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 37,
-   "id": "979e6397",
+   "execution_count": 14,
+   "id": "6936dd4e",
    "metadata": {},
    "outputs": [
     {
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "2.5748634360662868\n"
+      "1.6448794174297847\n"
      ]
     }
    ],
@@ -190,15 +172,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "8118682d",
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "1ab7cec6",
+   "id": "19a6e2f7",
    "metadata": {},
    "outputs": [],
    "source": []
